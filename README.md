@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="public/images/veylora-mark.png" width="96" alt="Veylora mark" />
-</p>
+
 
 <h1 align="center">Veylora</h1>
 
